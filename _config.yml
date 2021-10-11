@@ -1,13 +1,13 @@
 # Setup
-title:        Mitas Ray
-tagline:      PhD Student at the University of Washington
-baseurl:      ""
-paginate:     1
+title: Carina Guo
+tagline: Student at Richard Montgomery HS
+baseurl: ""
+paginate: 1
 
 # About/contact
 author:
-  name:       Mitas Ray
-  url:        http://127.0.0.1:4000/
+  name: Carina Guo
+  url: http://127.0.0.1:4000/
 
 # Gems
 gems:
